@@ -1,4 +1,4 @@
-import PropsPassing from "./components/PropsPassing";
+import PropsPassing from "./PropsPassing";
 
 const App2 = () => {
   // THis is an Object

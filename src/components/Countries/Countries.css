@@ -1,0 +1,11 @@
+.parentDiv {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.flag-container img {
+  max-width: 100px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
