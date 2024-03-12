@@ -1,0 +1,10 @@
+/* Styles for the application */
+.appStyles {
+  text-align: center;
+}
+
+/* Styles for the bottles */
+.bottlesStyles {
+  border: 2px solid black;
+
+}

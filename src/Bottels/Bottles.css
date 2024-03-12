@@ -1,0 +1,6 @@
+.bottlesStyle{
+    padding: 50px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); Assuming you want two columns
+}

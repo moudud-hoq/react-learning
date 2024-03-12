@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "brand": "HidrateSpark",
+    "model": "HidrateSpark 3",
+    "image": "https://example.com/hidrate_spark_3.jpg",
+    "capacity": "710 ml",
+    "material": "BPA-free plastic",
+    "features": [
+      "Tracks water intake",
+      "Syncs with hydration app",
+      "Glows to remind you to drink",
+      "Long battery life"
+    ],
+    "price": "$59.99"
+  },
+  {
+    "id": 2,
+    "brand": "HydrateM8",
+    "model": "HydrateM8 Tracker Bottle",
+    "image": "https://example.com/hydratem8_tracker_bottle.jpg",
+    "capacity": "900 ml",
+    "material": "BPA-free plastic",
+    "features": [
+      "Tracks water intake",
+      "Motivational time markings",
+      "Leak-proof design",
+      "Wide mouth for easy cleaning"
+    ],
+    "price": "$24.99"
+  },
+  {
+    "id": 3,
+    "brand": "Thermos",
+    "model": "Thermos Connected Hydration Bottle",
+    "image": "https://example.com/thermos_connected_hydration_bottle.jpg",
+    "capacity": "710 ml",
+    "material": "BPA-free plastic",
+    "features": [
+      "Tracks water intake",
+      "Syncs with hydration app",
+      "Monitors temperature of contents",
+      "Removable smart lid"
+    ],
+    "price": "$39.99"
+  },
+  {
+    "id": 4,
+    "brand": "LifeFuels",
+    "model": "LifeFuels Smart Bottle",
+    "image": "https://example.com/lifefuels_smart_bottle.jpg",
+    "capacity": "590 ml",
+    "material": "BPA-free plastic",
+    "features": [
+      "Dispenses personalized drinks",
+      "Tracks water intake",
+      "Syncs with hydration app",
+      "Customizable flavor pods"
+    ],
+    "price": "$179.99"
+  },
+  {
+    "id": 5,
+    "brand": "AquaGenie",
+    "model": "AquaGenie Smart Water Bottle",
+    "image": "https://example.com/aquagenie_smart_water_bottle.jpg",
+    "capacity": "710 ml",
+    "material": "BPA-free plastic",
+    "features": [
+      "Tracks water intake",
+      "Glows to remind you to drink",
+      "Leak-proof design",
+      "Long battery life"
+    ],
+    "price": "$34.95"
+  }
+]
